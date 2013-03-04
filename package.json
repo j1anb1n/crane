@@ -1,0 +1,15 @@
+{
+  "name": "crane",
+  "description": "a `gruntjs` based static files builder set.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/j1anb1n/crane",
+  "dependencies": {
+    "sqwish": ">=0.0.1",
+    "rsyncwrapper": ">=0.0.1",
+    "less": ">=1.3.3",
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": ">=0.1.1",
+    "grunt-contrib-uglify": ">=0.1.1",
+    "grunt-contrib-concat": ">=0.1.2"
+  }
+}
